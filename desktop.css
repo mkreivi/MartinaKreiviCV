@@ -46,15 +46,34 @@ header {
 ul {
     list-style-type: none;
 }
-h1 {
-    flex: 1rem;
-    font-size: 3rem;
-    margin: 0;
-    display: flex;
-    justify-content: center;
-}
 /* -------------- BODY -------------------- */
 main {
     margin-top: var(--header-height);
     padding:3rem;
+}
+h2 {
+    background-color: #FFE7D4;
+    color: #494E5F;
+    padding: 0.7rem;
+    font-size: 25px;
+    font-weight: bold;
+}
+h3 {
+    font-size: 18px;
+    padding: 2rem;
+}
+
+/* -------------- FOOTER -------------------- */
+
+footer {
+    background-color: #494E5F;
+    color: #FFE7D4;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+.logoWithLink {
+    height: 2.5rem;
 }

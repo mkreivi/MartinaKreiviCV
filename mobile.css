@@ -10,6 +10,26 @@
         height: 100%;
         text-align: center;
 
-    
+    }
+    header {
+        height: 4rem;
+    }
+    /*************************
+    VARFÖR FÖRSVINNER ALLT?
+    .material-symbols-outlined {
+        height: 1rem;
+    }
+    .martinaLogo {
+        height: 3rem;
+    }***************************/
+
+
+    footer {
+        height: 2rem;
+    }
+    .logoWithLink {
+        height: 0.7rem;
     }
 }
+
+
