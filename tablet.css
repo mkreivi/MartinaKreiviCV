@@ -1,1 +1,15 @@
 /* Desktop first */
+
+/* TABLET*/
+@media (max-width: 768px) {
+    body {
+        background-color: blue;
+    }
+    .open {
+        height: 100%;
+        text-align: center;
+
+    
+    }
+
+}

@@ -1,0 +1,15 @@
+/* Desktop first */
+
+/* MOBILE*/
+@media (max-width: 360px) {
+    body {
+        background-color: green;
+    }
+
+    .open {
+        height: 100%;
+        text-align: center;
+
+    
+    }
+}
