@@ -1,0 +1,55 @@
+:root {
+    --header-height: 10rem;
+}
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+header {
+    position: fixed;
+    background: #494E5F;
+    color: #FFE7D4;
+    inset: 0;
+    height: var(--header-height);
+    transition: height 400ms;
+    overflow-y: hidden;
+}
+.headerDiv {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 1rem;
+    align-items: center;
+    height: var(--header-height);
+    gap: 1rem;
+}
+
+.open{
+    height: 50%;
+    /*opacity: 85%;*/
+
+}
+
+.sizeFont {
+    font-size: 10rem;
+}
+
+
+ul {
+    list-style-type: none;
+}
+h1 {
+    flex: 1rem;
+    font-size: 3rem;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+/* -------------- BODY -------------------- */
+main {
+    margin-top: var(--header-height);
+    padding:3rem;
+}
