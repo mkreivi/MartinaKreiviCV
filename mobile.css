@@ -3,7 +3,7 @@
 /* MOBILE*/
 @media (max-width: 360px) {
     body {
-        background-color: green;
+        background-color: lightgreen;
     }
 
     .open {
@@ -14,6 +14,8 @@
     header {
         height: 4rem;
     }
+    main {
+        margin-top: 4rem;
     /*************************
     VARFÖR FÖRSVINNER ALLT?
     .material-symbols-outlined {
@@ -22,14 +24,13 @@
     .martinaLogo {
         height: 3rem;
     }***************************/
-
+    }
 
     footer {
-        height: 2rem;
+        height: 3rem;
     }
+
     .logoWithLink {
         height: 0.7rem;
     }
 }
-
-

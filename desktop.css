@@ -35,7 +35,9 @@ header {
 .open{
     height: 60%;
 
-
+}
+li {
+    font-size: 2rem;
 }
 
 .sizeFont {
@@ -47,12 +49,13 @@ ul {
     list-style-type: none;
 }
 /* -------------- BODY -------------------- */
+
 main {
     margin-top: var(--header-height);
     padding:3rem;
 }
 h2 {
-    background-color: #FFE7D4;
+    background-color: #ffe7d4;
     color: #494E5F;
     padding: 0.7rem;
     font-size: 25px;
