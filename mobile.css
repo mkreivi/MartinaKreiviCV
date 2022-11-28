@@ -31,6 +31,12 @@
         height: 3rem;
     }***************************/
     }
+    .sectionWithCards {
+        display: flex;
+        width: 300px;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+      }
 
     footer {
         height: 3rem;

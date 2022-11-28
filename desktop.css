@@ -49,6 +49,10 @@ li {
 ul {
     list-style-type: none;
 }
+.material-symbols-outlined:active { /* FINKAR INTE!!!*/
+    color:#FFE7D4;
+
+}
 /* -------------- BODY -------------------- */
 
 main {
