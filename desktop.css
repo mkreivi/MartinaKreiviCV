@@ -72,6 +72,9 @@ h4 {
     font-size: 15px;
     padding: .5rem 2rem;
 }
+.headingCards {
+    padding: 0;
+}
 .aboutMe {
     display: flex;
     align-items: row;
