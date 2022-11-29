@@ -49,7 +49,7 @@ li {
 ul {
     list-style-type: none;
 }
-.material-symbols-outlined:active { /* FINKAR INTE!!!*/
+.material-symbols-outlined:hover { /* FUNKAR INTE!!!*/
     color:#FFE7D4;
 
 }
