@@ -49,9 +49,10 @@ li {
 ul {
     list-style-type: none;
 }
-.material-symbols-outlined:hover { /* FUNKAR INTE!!!*/
-    color:#FFE7D4;
 
+a {
+    color: #ffe7d4;
+    text-decoration-style: none;
 }
 /* -------------- BODY -------------------- */
 
