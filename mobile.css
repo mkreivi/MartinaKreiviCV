@@ -22,14 +22,7 @@
     }
     main {
         margin-top: 5rem;
-    /*************************
-    VARFÖR FÖRSVINNER ALLT?
-    .material-symbols-outlined {
-        height: 1rem;
-    }
-    .martinaLogo {
-        height: 3rem;
-    }***************************/
+
     }
     h2 {
         padding: 0.7rem;
@@ -46,7 +39,7 @@
         padding: .5rem 2rem;
     }
     
-      /* -------------- CARDS IN PORTFOLIO -------------------- */
+/* -------------- CARDS IN PORTFOLIO MOBILE -------------------- */
 
 .sectionWithCards {
     gap: 0.5rem;
