@@ -134,8 +134,13 @@ h4 {
     font-size: 13px;
     margin: 0 0 40px;
   }
-  
-  
+  .cvDiv {
+    display: flex;
+    justify-content: center;
+  }
+  .cvMartina {
+    height: 700px;
+  }
 
 /* -------------- FOOTER -------------------- */
 
