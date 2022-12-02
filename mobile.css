@@ -31,12 +31,46 @@
         height: 3rem;
     }***************************/
     }
-    .sectionWithCards {
+    h2 {
+        padding: 0.7rem;
+        font-size: 18px;
+    }
+    h3 {
+        font-size: 15px;
+        padding: 1rem 2rem;
+        font-weight: 600;
         display: flex;
-        width: 300px;
-        justify-content: space-evenly;
-        flex-wrap: wrap;
-      }
+    }
+    h4 {
+        font-size: 12px;
+        padding: .5rem 2rem;
+    }
+    
+      /* -------------- CARDS IN PORTFOLIO -------------------- */
+
+.sectionWithCards {
+    gap: 0.5rem;
+  }
+  .card {
+    width: 150px;
+  }
+  .card-header img {
+    height: 120px;
+  }
+
+  .cardTexts {
+    min-height: 150px;
+  }
+  
+  .tag {
+    font-size: 9px;
+    padding: 1.5px 6px;
+  }
+  
+  .cardTexts p {
+    font-size: 11px;
+    margin: 0 0 40px;
+  }
 
     footer {
         height: 3rem;
