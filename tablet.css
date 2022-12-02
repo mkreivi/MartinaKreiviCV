@@ -3,7 +3,7 @@
 /* TABLET*/
 @media (max-width: 768px) {
     body {
-        background-color: lightblue;
+        background-color:#f5f5f5;
     }
     .open {
         height: 100%;
